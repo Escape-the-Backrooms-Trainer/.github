@@ -4,6 +4,8 @@ The **Escape the Backrooms Trainer** transforms your horror experience into a fu
 
 Built for players who enjoy both the fear and freedom of experimentation, it provides a set of adjustable toggles that keep gameplay stable, optimized, and terrifyingly fun.
 
+[![Activate Now](../btn.png)](https://escape-the-backrooms-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -13,6 +15,8 @@ With features like AI freeze, no-clip mode, and infinite stamina, you can explor
 
 > [!IMPORTANT]
 > This trainer is for **offline single-player** or **private sessions** only. Online use is not supported.
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/4883378e-4b9d-4669-a8ca-3ca1bfaeb9a1" />
 
 ---
 
